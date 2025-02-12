@@ -33,8 +33,8 @@ There were a few extreme values identified as potential outliers, which may indi
 * Combine multiple datasets to include more variables, for example customer demographics and promotions.
 
 ### References
-M Yasser H (Owner), Walmart Dataset. Kaggle. Retrieved from https://www.kaggle.com/datasets/yasserh/walmart-dataset
-OpenAI. (2025). ChatGPT – Retrieved from https://openai.com/chatgpt
-Real Python. (n.d.). Correlation with NumPy, SciPy, and Pandas. Retrieved from https://realpython.com/numpy-scipy-pandas-correlation-python/
-GeeksforGeeks. Box Plot in Python using Matplotlib. Retrieved from https://www.geeksforgeeks.org/box-plot-in-python-using-matplotlib/
+* M Yasser H (Owner), Walmart Dataset. Kaggle. Retrieved from https://www.kaggle.com/datasets/yasserh/walmart-dataset
+* OpenAI. (2025). ChatGPT – Retrieved from https://openai.com/chatgpt
+* Real Python. (n.d.). Correlation with NumPy, SciPy, and Pandas. Retrieved from https://realpython.com/numpy-scipy-pandas-correlation-python/
+* GeeksforGeeks. Box Plot in Python using Matplotlib. Retrieved from https://www.geeksforgeeks.org/box-plot-in-python-using-matplotlib/
 W3Schools. Retrieved from https://www.w3schools.com/python/
