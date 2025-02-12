@@ -2,7 +2,7 @@
 
 ## Exploring Walmart Sales across 45 different stores
 
-Authors: Anqa Javed, Humaira Enayetullah, Julio Carneiro, Shahab Eshghifard.
+* Authors: Anqa Javed, Humaira Enayetullah, Julio Carneiro, Shahab Eshghifard.
 
 Introduction
 Retail businesses generate vast amounts of sales data and can provide valuable insights into customer behavior, seasonal trends, and business performance. Walmart, as one of the largest retail chains, offers a comprehensive dataset with sales information across multiple stores and departments. In this project, we will examine Walmart sales data from February 5, 2010, to November 1, 2012, to understand sales trends, external economic influences, and the impact of holidays on consumer spending.
