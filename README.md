@@ -20,17 +20,17 @@ We used pandas for cleaning our data and creating new columns for further analys
 There were a few extreme values identified as potential outliers, which may indicate unusual sales events like holidays or promotions. There are 34 outliers in weekly sales when there is a high volume of sales and most of these happen prior to the holidays.
 
 ### Limitations
-This dataset consists of 6435 rows and 8 columns, which may not be sufficient for robust correlation results.
-The dataset uses 45 different Walmart stores, but the data provides no information about the location of these stores.  This limits our ability to do any regional analysis or consider any geographic factors that might influence sales.
-The Holiday flag column in the dataset only marks Super Bowl, Labor Day, Thanksgiving, Christmas as holidays. However,  other holidays such as Easter, and other religious holidays were not included. Since Walmart often runs promotions during these events, incorporating them into the dataset would provide a more comprehensive understanding of holiday-related sales trends.
-There is no information on the units of certain columns such as temperature and fuel price.
+* This dataset consists of 6435 rows and 8 columns, which may not be sufficient for robust correlation results.
+* The dataset uses 45 different Walmart stores, but the data provides no information about the location of these stores.  This limits our ability to do any regional analysis or consider any geographic factors that might influence sales.
+* The Holiday flag column in the dataset only marks Super Bowl, Labor Day, Thanksgiving, Christmas as holidays. However,  other holidays such as Easter, and other religious holidays were not included. Since Walmart often runs promotions during these events, incorporating them into the dataset would provide a more comprehensive understanding of holiday-related sales trends.
+* There is no information on the units of certain columns such as temperature and fuel price.
 
 ### Future Suggestions
-Develop a model to optimize stocking during peak sales periods, especially holidays.
-Perform sentiment analysis on customer reviews to understand consumer behavior.
-Expand the Dataset and look for additional sales datasets on Kaggle or other open data sources to increase the sample size.
-Include data on employee numbers for better management of stores.
-Combine multiple datasets to include more variables, for example customer demographics and promotions.
+* Develop a model to optimize stocking during peak sales periods, especially holidays.
+* Perform sentiment analysis on customer reviews to understand consumer behavior.
+* Expand the Dataset and look for additional sales datasets on Kaggle or other open data sources to increase the sample size.
+* Include data on employee numbers for better management of stores.
+* Combine multiple datasets to include more variables, for example customer demographics and promotions.
 
 ### References
 M Yasser H (Owner), Walmart Dataset. Kaggle. Retrieved from https://www.kaggle.com/datasets/yasserh/walmart-dataset
