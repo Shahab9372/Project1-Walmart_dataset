@@ -37,4 +37,4 @@ There were a few extreme values identified as potential outliers, which may indi
 * OpenAI. (2025). ChatGPT – Retrieved from https://openai.com/chatgpt
 * Real Python. (n.d.). Correlation with NumPy, SciPy, and Pandas. Retrieved from https://realpython.com/numpy-scipy-pandas-correlation-python/
 * GeeksforGeeks. Box Plot in Python using Matplotlib. Retrieved from https://www.geeksforgeeks.org/box-plot-in-python-using-matplotlib/
-W3Schools. Retrieved from https://www.w3schools.com/python/
+* W3Schools retrieved from https://www.w3schools.com/python/
