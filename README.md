@@ -17,7 +17,6 @@ We used pandas for cleaning our data and creating new columns for further analys
  ![Fig2](https://github.com/user-attachments/assets/47c8b43f-ebc4-4e8e-be5f-349043db8f08)
 
 * More than 50% of sales are below $1 million, likely due to Walmart being used for daily needs.
-  ![Fig8](https://github.com/user-attachments/assets/4fa8e136-4cb5-499b-b531-8148b57a5cc3)
 
 * There appears to be a seasonal trend in weekly sales with the highest monthly sales happening in April and July (approximately $6.5 million) while the lowest sales happen in January when it is less than $3.5 million. This may be because people are saving after the Christmas and New Year holidays.
   ![Fig3](https://github.com/user-attachments/assets/30188cc9-6825-4167-a505-b0c733789a9e)
