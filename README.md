@@ -13,7 +13,6 @@ We used pandas for cleaning our data and creating new columns for further analys
 ### Summary of findings
 * Weekly sales data showed a wide range, with most sales falling within expected thresholds.
 * The top 10 stores had more than $2 million in weekly sales while the bottom stores had less than $0.5 million total weekly sales.
- ![Fig1](https://github.com/user-attachments/assets/b07da81a-d1b1-48c2-a037-5905cee6389f)
 
 ![Fig2](https://github.com/user-attachments/assets/47c8b43f-ebc4-4e8e-be5f-349043db8f08)
 
