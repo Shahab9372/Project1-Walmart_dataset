@@ -13,6 +13,8 @@ We used pandas for cleaning our data and creating new columns for further analys
 ### Summary of findings
 * Weekly sales data showed a wide range, with most sales falling within expected thresholds.
 * The top 10 stores had more than $2 million in weekly sales while the bottom stores had less than $0.5 million total weekly sales.
+* ![Fig1](https://github.com/user-attachments/assets/b07da81a-d1b1-48c2-a037-5905cee6389f)
+
 * More than 50% of sales are below $1 million, likely due to Walmart being used for daily needs.
 * There appears to be a seasonal trend in weekly sales with the highest monthly sales happening in April and July (approximately $6.5 million) while the lowest sales happen in January when it is less than $3.5 million. This may be because people are saving after the Christmas and New Year holidays. 
 * Based on our scatter plots there is a weak correlation between weekly sales and average temperature, weekly sales and consumer price index, weekly sales and fuel price, and weekly sales and unemployment rate with R square values of 0.005.
