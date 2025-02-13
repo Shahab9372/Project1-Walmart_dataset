@@ -14,7 +14,7 @@ We used pandas for cleaning our data and creating new columns for further analys
 * Weekly sales data showed a wide range, with most sales falling within expected thresholds.
 * The top 10 stores had more than $2 million in weekly sales while the bottom stores had less than $0.5 million total weekly sales.
 
-![Fig2](https://github.com/user-attachments/assets/47c8b43f-ebc4-4e8e-be5f-349043db8f08)
+ ![Fig2](https://github.com/user-attachments/assets/47c8b43f-ebc4-4e8e-be5f-349043db8f08)
 
 * More than 50% of sales are below $1 million, likely due to Walmart being used for daily needs.
   ![Fig8](https://github.com/user-attachments/assets/4fa8e136-4cb5-499b-b531-8148b57a5cc3)
