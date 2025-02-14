@@ -27,7 +27,7 @@ We used pandas for cleaning our data and creating new columns for further analys
 
   
 * The weekly sales data is not normally distributed. It is positively skewed with the mean of weekly sales being 1,046,964.88, the median being 960,746.04, and the mode being 209,986.25.
-*There were a few extreme values identified as potential outliers, which may indicate unusual sales events like holidays or promotions. There are 34 outliers in weekly sales when there is a high volume of sales and most of these happen prior to the holidays.
+* There were a few extreme values identified as potential outliers, which may indicate unusual sales events like holidays or promotions. There are 34 outliers in weekly sales when there is a high volume of sales and most of these happen prior to the holidays.
 
 ### Limitations
 * This dataset consists of 6435 rows and 8 columns, which may not be sufficient for robust correlation results.
