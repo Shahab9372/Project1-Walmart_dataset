@@ -22,7 +22,8 @@ We used pandas for cleaning our data and creating new columns for further analys
   ![Fig3](https://github.com/user-attachments/assets/30188cc9-6825-4167-a505-b0c733789a9e)
 
 * Based on our scatter plots there is a weak correlation between weekly sales and average temperature, weekly sales and consumer price index, weekly sales and fuel price, and weekly sales and unemployment rate with R square values of 0.005.
-  ![image](https://github.com/user-attachments/assets/c96fda76-e198-42de-a965-22659204cfb4)
+  ![Untitled presentation](https://github.com/user-attachments/assets/becaebb0-8d35-47d0-84af-978f340386a0)
+
 
   
 * The weekly sales data is not normally distributed. It is positively skewed with the mean of weekly sales being 1,046,964.88, the median being 960,746.04, and the mode being 209,986.25.
